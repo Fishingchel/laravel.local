@@ -25,6 +25,7 @@
 			<center>
 				<h1>Laravel!</h1>
 			</center>
+            <div>Просто строка для теста</div>
 		</div>
     </body>
 </html>
